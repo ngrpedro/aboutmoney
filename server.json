@@ -55,22 +55,6 @@
       "type": "income",
       "createdAt": "2023-01-31T19:24:59.404Z",
       "id": 7
-    },
-    {
-      "description": "sdfsdf",
-      "price": 4444,
-      "category": "sdfsdfdsf",
-      "type": "outcome",
-      "createdAt": "2023-01-31T19:25:58.723Z",
-      "id": 8
-    },
-    {
-      "description": "asdasdasd",
-      "price": 2222222,
-      "category": "asdasdasd",
-      "type": "outcome",
-      "createdAt": "2023-01-31T19:39:53.960Z",
-      "id": 9
     }
   ]
 }

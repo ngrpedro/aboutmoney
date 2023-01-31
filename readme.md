@@ -1,4 +1,4 @@
-## Um aplicativo web para gerencimaneto de despesas.
+## A web app to track expenses =>
 
 - Reactjs + typescript
 - ContextAPI para gerenciamento de estado
@@ -11,7 +11,7 @@
 - radix-ui (modal e radio button)
 - json-server + axios
 
-### **Estudo** - melhora de performance
+### **Review** - performance issue
 
 - use-context-selector
 - useCallback

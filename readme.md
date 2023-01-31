@@ -4,14 +4,14 @@
 - ContextAPI para gerenciamento de estado
 - Styled-components para estilização
 
-## Dependencies::
+### Dependencies::
 
 - react-hook-form + zod (gerencimaneto de formulário e types)
 - phosphor-react (icons)
 - radix-ui (modal e radio button)
 - json-server + axios
 
-## **Estudo** - melhora de performance
+### **Estudo** - melhora de performance
 
 - use-context-selector
 - useCallback

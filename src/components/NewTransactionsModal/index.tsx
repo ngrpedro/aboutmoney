@@ -15,7 +15,7 @@ import { TransactionsContext } from "./../../contexts/TransactionsContext";
 
 const newTransactionFormSchema = z.object({
   description: z.string(),
-  price: z.string(),
+  price: z.number(),
   category: z.string(),
   type: z.enum(["income", "outcome"]),
 });

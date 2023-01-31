@@ -3,10 +3,10 @@ import {
   HeaderContent,
   LogoContianer,
   NewTransactionButton,
-} from "./styles";
-import logo from "../../assets/coins-green.png";
-import * as Dialog from "@radix-ui/react-dialog";
-import { NewTransactionsModal } from "../NewTransactionsModal";
+} from './styles'
+import logo from '../../assets/coins-green.png'
+import * as Dialog from '@radix-ui/react-dialog'
+import { NewTransactionsModal } from '../NewTransactionsModal'
 
 export function Header() {
   return (
@@ -25,5 +25,5 @@ export function Header() {
         </Dialog.Root>
       </HeaderContent>
     </HeaderContainer>
-  );
+  )
 }

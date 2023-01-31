@@ -12,7 +12,7 @@ interface Transaction {
 
 interface CreateTransactionInput {
   description: string;
-  price: string;
+  price: number;
   category: string;
   type: "income" | "outcome";
 }

@@ -10,15 +10,6 @@ import {
 } from "./styles";
 import { dataformatter, priceFormatter } from "../../utils/formatter";
 
-interface Transaction {
-  id: number;
-  description: string;
-  type: "income" | "outcome";
-  price: number;
-  category: string;
-  createdAt: string;
-}
-
 export function Transactions() {
   const { transactions } = useContext(TransactionsContext);
 
